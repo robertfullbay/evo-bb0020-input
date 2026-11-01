@@ -1,0 +1,1 @@
+{"custom_id":"c1","method":"POST","url":"/v1/chat/completions","body":{"model":"hy3","messages":[{"role":"user","content":"hi"}],"max_tokens":16}}
