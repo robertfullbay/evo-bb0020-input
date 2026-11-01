@@ -1,0 +1,1 @@
+{"custom_id":"c1","method":"POST","url":"/v1/chat/completions","body":123,"body":{"model":"glm-5.3-flash","messages":[{"role":"user","content":"hi"}]}}
